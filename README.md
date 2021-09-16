@@ -1,7 +1,3 @@
----
-
----
-
 Hello =)
 
 This is a repo of my <u>Voron 2.4 250mm²</u> which contains some information about the configuration and the mods that I have installed.
