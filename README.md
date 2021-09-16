@@ -1,7 +1,7 @@
 Hello =)
 This is a repo of my <u>Voron 2.4 250mm²</u> which contains some information about the configuration and the mods that I have installed.
 Since it is my first Repo on Github, there will surely be other useful stuff here over time i think 😅
-So please forgive me any initial mistakes here :-*
+So please forgive me any initial mistakes here 😘
 
 Feel free to Contact me in the Voron Discord and many other 3D Printing Discords of which I am also a Member under: **xenon2008#0005**
 
