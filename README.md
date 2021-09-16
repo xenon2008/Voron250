@@ -21,7 +21,9 @@ Feel free to Contact me in the [Voron Discord](https://discord.gg/voron) and man
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=xenon2008&show_icons=true) !<div class="pull-left">[Profile views](https://gpvc.arturio.dev/xenon2008)</div>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=xenon2008&show_icons=true) 
+
+![Profile views](https://gpvc.arturio.dev/xenon2008)
 
 ------
 
