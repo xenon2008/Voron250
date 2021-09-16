@@ -34,9 +34,7 @@ Feel free to Contact me in the [Voron Discord](https://discord.gg/voron) and man
 
 ------
 
-
-
-
+  
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/xenon2008)  
 
