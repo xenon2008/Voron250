@@ -28,7 +28,7 @@ Feel free to Contact me in the [Voron Discord](https://discord.gg/voron) and man
 - Installed Hardware on my 2.4 250³ Voron
 - Spider Board - Where do I connect what?
 
-
+​           
 
 
 
@@ -51,4 +51,8 @@ Feel free to Contact me in the [Voron Discord](https://discord.gg/voron) and man
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=xenon2008&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/xenon2008)  
+
+
+
+[^)]: 
 
