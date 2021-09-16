@@ -19,6 +19,10 @@ And since I'm new to Github, and I have to get used to it, you're welcome to giv
 
 Feel free to Contact me in the [Voron Discord](https://discord.gg/voron) and many other 3D Printing Discords of which I am also a Member under: ***<u>xenon2008#0005</u>***
 
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=xenon2008&show_icons=true) ![Profile views](https://gpvc.arturio.dev/xenon2008)
+
 ------
 
 
@@ -56,11 +60,5 @@ Feel free to Contact me in the [Voron Discord](https://discord.gg/voron) and man
 
 ------
 
-​                                        
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/xenon2008)  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=xenon2008&show_icons=true)  
-
-![Profile views](https://gpvc.arturio.dev/xenon2008)  
+​    
 
