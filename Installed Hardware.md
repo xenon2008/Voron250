@@ -4,15 +4,11 @@
 
 - #### Linearrails:
 
-  - ***X***: MGN9H 300mm Hiwin
+  - <u>***X***:</u> MGN9H 300mm Hiwin
 
-  - **Y/Z:** MGN9H R2 300mm (from 
+  - **<u>Y/Z:</u>** MGN9H R2 300mm (from [](https://vonwange.com/))
 
-    [https://vonwange.com/]: https://vonwange.com/	"vonWange"
-
-    
-
-    dsad
+  - 
 
     
 
