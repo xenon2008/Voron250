@@ -31,7 +31,7 @@ Feel free to Contact me in the [Voron Discord](https://discord.gg/voron) and man
 
 # Some Docs:
 
-- [Installed Hardware on my 2.4 250³ Voron](Installed Hardware.md)
+- [Installed Hardware on my 2.4 250³ Voron](Installed_Hardware.md)
 - Spider Board - Where do I connect what?
 
 ​           
