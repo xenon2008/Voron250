@@ -1,4 +1,4 @@
-### ***<u>The following hardware is currently installed\***</u>***
+### *The following Hardware is currently installed*:
 
 ------
 
